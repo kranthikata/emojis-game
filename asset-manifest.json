@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emojis-game/static/css/main.d37e71bb.css",
+    "main.js": "/emojis-game/static/js/main.70babb2a.js",
+    "index.html": "/emojis-game/index.html",
+    "main.d37e71bb.css.map": "/emojis-game/static/css/main.d37e71bb.css.map",
+    "main.70babb2a.js.map": "/emojis-game/static/js/main.70babb2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37e71bb.css",
+    "static/js/main.70babb2a.js"
+  ]
+}
